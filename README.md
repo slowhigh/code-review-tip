@@ -4,5 +4,7 @@
 
 Gitflow, 협업기법 깃플로우 각 브랜치 역할 알아보기 [Vincent Driessen] - https://0urtrees.tistory.com/192
 
+협업-협업을-위한-Git-Flow-설정하기 - https://overcome-the-limits.tistory.com/entry/협업-협업을-위한-Git-Flow-설정하기
+
 
 
